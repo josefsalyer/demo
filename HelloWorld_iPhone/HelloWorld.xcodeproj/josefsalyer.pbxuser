@@ -9,7 +9,7 @@
 	289ED5040DB92497003600B4 /* MyViewController.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {765, 1378}}";
-			sepNavSelRange = "{3037, 0}";
+			sepNavSelRange = "{2994, 0}";
 			sepNavVisRange = "{2544, 958}";
 		};
 	};
@@ -51,6 +51,8 @@
 			7298E56511E4CDF200B2A54A = 7298E56511E4CDF200B2A54A /* PBXTextBookmark */;
 			7298E56611E4CDF200B2A54A = 7298E56611E4CDF200B2A54A /* PBXTextBookmark */;
 			72DF391111E4FFB4001A6460 /* PBXTextBookmark */ = 72DF391111E4FFB4001A6460 /* PBXTextBookmark */;
+			72DF391511E50023001A6460 /* PBXTextBookmark */ = 72DF391511E50023001A6460 /* PBXTextBookmark */;
+			72DF391811E500CD001A6460 /* PBXTextBookmark */ = 72DF391811E500CD001A6460 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 7298E56311E4251B00B2A54A /* Source Control */;
 		userBuildSettings = {
@@ -123,6 +125,26 @@
 		name = "MyViewController.m: 72";
 		rLen = 0;
 		rLoc = 3037;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 2544;
+	};
+	72DF391511E50023001A6460 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289ED5040DB92497003600B4 /* MyViewController.m */;
+		name = "MyViewController.m: 72";
+		rLen = 0;
+		rLoc = 3037;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 2544;
+	};
+	72DF391811E500CD001A6460 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289ED5040DB92497003600B4 /* MyViewController.m */;
+		name = "MyViewController.m: 70";
+		rLen = 0;
+		rLoc = 2994;
 		rType = 0;
 		vrLen = 958;
 		vrLoc = 2544;

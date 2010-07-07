@@ -67,9 +67,9 @@
 	
 	// Store the text of the text field in the 'string' instance variable.
 	//bad code
-	self.string = textField.text
+	//self.string = textField.text
 	//good code
-	//self.string = textField.text;
+	self.string = textField.text;
     // Set the text of the label to the value of the 'string' instance variable.
 	label.text = self.string;
 }
